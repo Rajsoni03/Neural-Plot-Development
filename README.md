@@ -1,7 +1,8 @@
 # Neural Plot
-## This Libary is working on Matplotlib
-## Currently Under Development
-
+## A library for visualizing Artificial Neural Networks (ANN).
+### This Libary is working on Matplotlib
+### Currently Under Development
+<br><br>
 
 ### Single Layer Graph Plotting _(1 - Neural Net.ipynb)_
 
