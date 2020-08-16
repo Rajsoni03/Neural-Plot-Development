@@ -50,7 +50,7 @@ djangorestframework==3.10.3
 djangorestframework-jwt==1.11.0
 dlib==19.17.0
 docutils==0.14
-ecdsa==0.13.2
+ecdsa==0.13.3
 entrypoints==0.3
 enum34==1.1.6
 et-xmlfile==1.0.1
