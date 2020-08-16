@@ -78,7 +78,7 @@ h5py==2.9.0
 helper==2.4.2
 hiredis==1.0.1
 html5lib==1.0.1
-httplib2==0.13.1
+httplib2==0.18.0
 hyperlink==19.0.0
 idna==2.6
 imageio==2.5.0
