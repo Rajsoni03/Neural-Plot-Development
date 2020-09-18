@@ -1,10 +1,2 @@
-Flask==1.1.1
-folium==0.10.1
-geoip2==3.0.0
-geopy==1.20.0
-Keras==2.3.1
 matplotlib==3.1.1
-notebook==5.7.8
 numpy==1.16.3
-pandas==0.25.2
-Pillow==7.1.2
