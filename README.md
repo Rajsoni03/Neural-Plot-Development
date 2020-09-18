@@ -56,10 +56,9 @@ neuralplot(layers)
 from neuralplot import neuralplot
 neuralplot(model=model, grid=True, connection=True, linewidth=0.1)
 ```
-![alt text](Screenshot/Image-009.png "Model")
-![alt text](Screenshot/Image-008.png "Plot with grids")
+![alt text](Screenshot/Image-011.png "Plot with grids")
 
 ```python
 neuralplot(model=model, grid=False, connection=True, linewidth=0.1)
 ```
-![alt text](Screenshot/Image-007.png "Plot without grids")
+![alt text](Screenshot/Image-010.png "Plot without grids")
