@@ -10,6 +10,8 @@ def model2layers(model):
         name = str(i.with_name_scope).split('.')[-1][:-3]
         if name == 'InputLayer':
             shape = i.input_shape[0][1:]
+        elif name == 'MaxPooling2D':
+            shape = i.input_shape[1:]
         else:
             shape = i.output_shape[1:]
         layers.append((tuple(shape), name))
