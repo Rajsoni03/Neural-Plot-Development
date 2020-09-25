@@ -1,5 +1,5 @@
 # Neural Plot
-## A library for visualizing Neural Networks of the TensorFlow/Keras models.
+## A module for visualizing Neural Networks of the TensorFlow/Keras models.
 ### This Libary is working on Matplotlib
 #### Currently Under Development
 <br>
