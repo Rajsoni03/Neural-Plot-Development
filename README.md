@@ -1,6 +1,6 @@
 # Neural Plot
 ## A module for visualizing Neural Networks of the TensorFlow/Keras models.
-### This Libary is working on Matplotlib.
+### This is working on Matplotlib.
 ### This works well for smaller models but takes longer for larger models.
 #### Currently Under Development
 <br>
