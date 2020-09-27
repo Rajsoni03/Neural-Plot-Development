@@ -1,7 +1,11 @@
 # Neural Plot
-## A module for visualizing Neural Networks of the TensorFlow/Keras models.
-### This Libary is working on Matplotlib
+## A Library for visualizing Neural Networks of the TensorFlow/Keras models.
+### This Library is working on Matplotlib.
+### This works well for smaller models but takes longer for larger models.
 #### Currently Under Development
+
+Try this out  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/Rajsoni03/Neural-Plot//blob/master/Example%20Notebook.ipynb) (Interactive plot is not supported in colab.)
+
 <br>
 
 ### Single Layer Graph Plotting _(Development Notebooks/1-Neural Net.ipynb)_
