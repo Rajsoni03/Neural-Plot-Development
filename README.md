@@ -1,5 +1,8 @@
 # Neural Plot
+
 ## A Library for visualizing Neural Networks of the TensorFlow/Keras models.
+
+Visit library page - https://github.com/Rajsoni03/neuralplot
 ### This Library is working on Matplotlib.
 ### This works well for smaller models but takes longer for larger models.
 #### Currently Under Development
